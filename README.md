@@ -1,2 +1,3 @@
-# prompts
-my prompts
+# プロンプト関連を溜め込む
+試行錯誤
+
